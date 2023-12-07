@@ -23,10 +23,41 @@ header {
   vertical-align: middle;
   margin-inline: 51px;
 }
-.nav_text{
-    color: #FFFFFF;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 30px;
-    font-family: 'Nerko One', cursive
+.nav_text {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: "Nerko One", cursive;
+}
+/* article */
+article {
+  width: 780px;
+  margin: 200px auto;
+}
+.article_header {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 62.4px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: #4d4d4d;
+}
+.article_p1 {
+  margin: 60px 0 52px 0;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: justify;
+  font-family: "Nerko One", cursive;
+  color: #656565;
+}
+.article_p2 {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 34px;
+  text-align: justify;
+  font-family: "Nerko One", cursive;
+  color: #656565;
+  margin: 52px 0 200px 0;
 }
