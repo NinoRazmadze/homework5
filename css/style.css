@@ -1,4 +1,5 @@
 /* header */
+/* პოპინსის ფონტის არასწორი ვერსია შემოვიტანე მაგრამ ახლა ვეღარ შევცვლი */
 header {
   background-color: #2a9d8f;
   width: 1440px;
@@ -31,7 +32,7 @@ header {
   font-family: "Nerko One", cursive;
 }
 /* article */
-article {
+.article1 {
   width: 780px;
   margin: 200px auto;
 }
@@ -60,4 +61,54 @@ article {
   font-family: "Nerko One", cursive;
   color: #656565;
   margin: 52px 0 200px 0;
+}
+/* section */
+.section1{ 
+  width: 1440px;
+  margin: 0 auto;
+  background-color: #C2F3EE;
+  padding: 80px 130px;
+ 
+}
+ 
+.section1_image{
+  width: 500px;
+  height: 560px;
+  vertical-align: top;
+  margin-right: 120px;
+}
+.section1_header{
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 48px;
+  font-family: "Poppins", sans-serif;
+  color: #272727;
+ 
+}
+.article2{
+  display: inline-block;
+  width: 460px;
+  vertical-align: top;
+
+}
+.section1_p{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  font-family: "Poppins", sans-serif;
+  color: #515151;
+  margin: 27px 0 45px 0;
+ 
+ 
+}
+button{
+  background-color: #2A9D8F;
+  color: #FFFFFF;
+  width: 113px;
+  height: 46px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  border: none;
+  font-family:"Poppins", sans-serif ;
 }
